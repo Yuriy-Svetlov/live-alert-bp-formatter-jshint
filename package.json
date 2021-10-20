@@ -1,0 +1,22 @@
+{
+  "name": "live-alert-bp-formatter-jshint",
+  "version": "1.0.0",
+  "description": "The jshint message formatter for live-alert-bp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live-alert",
+    "live",
+    "alert",
+    "style",
+    "formatter",
+    "jshint"
+  ],
+  "author": "Somin Yuri",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.merge": "^4.6.2"
+  }
+}
