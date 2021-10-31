@@ -15,6 +15,10 @@
     "jshint"
   ],
   "author": "Somin Yuri",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiromid/live-alert-bp-formatter-jshint"
+  },  
   "license": "MIT",
   "dependencies": {
     "lodash.merge": "^4.6.2"
