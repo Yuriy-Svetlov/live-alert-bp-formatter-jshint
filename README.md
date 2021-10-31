@@ -33,10 +33,12 @@ formatterJSlint(messages, user_style, filter)
 
 #### messages
 * Type: `Array`
+
 JSlint messages
 
 #### user_style
 * Type: `ObjectJSON`
+
 Set custom style messages
 
 Exmaple:
@@ -74,6 +76,7 @@ Exmaple:
 
 #### filter
 * Type: `Array`
+
 Message level filter. 
 `E` is error, `W` is warning, `I` is info.
 
