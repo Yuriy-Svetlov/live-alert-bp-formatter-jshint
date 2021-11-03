@@ -1,7 +1,7 @@
 {
   "name": "live-alert-bp-formatter-jshint",
-  "version": "1.0.0",
-  "description": "The jshint message formatter for live-alert-bp",
+  "version": "1.0.1",
+  "description": "The JShint message formatter for live-alert-bp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,8 @@
     "type": "git",
     "url": "https://github.com/semiromid/live-alert-bp-formatter-jshint"
   },  
+  "homepage": "https://live-alert-browser-page.com",
+  "bugs": "https://github.com/semiromid/live-alert-bp-formatter-jshint/issues",
   "license": "MIT",
   "dependencies": {
     "lodash.merge": "^4.6.2"
