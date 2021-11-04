@@ -1,6 +1,6 @@
 # Live Alert BP Formatter JSlint
 
-The JSlint message formatter for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+The JSlint message formatter for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 
 ##  Install
@@ -21,7 +21,7 @@ const formatterJSlint = require("live-alert-bp-formatter-jshint");
 
 ## Examples how to use
 
-[Examples](https://github.com/semiromid/live-alert-bp#examples)
+[Examples](https://github.com/Yuriy-Svetlov/live-alert-bp#examples)
 
 ## API
 
@@ -31,7 +31,7 @@ const formatterJSlint = require("live-alert-bp-formatter-jshint");
 formatterJSlint(messages, user_style, filter)
 ```
 
-* return:  formatted messages for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+* return:  formatted messages for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 #### messages
 * Type: `Array`
